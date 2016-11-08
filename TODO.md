@@ -9,3 +9,4 @@ TODO
 - pouvoir éditer les shapefiles de manière interactive, en utilisant quelque chose du genre de : https://github.com/paleo13/mapotron
 - mode "batch" pour une préfecture, par exemple ?
 - passer en mode "bookmarkable"
+- remplacer le chargement du shp des communes par un appel à cette API : https://docs.geo.api.gouv.fr/
